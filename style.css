@@ -1,0 +1,24 @@
+body {
+background:linear-gradient(#18FFFF,rgb(60, 0, 255),rgb(0, 247, 255) ) ;
+
+}
+
+h2{
+    color :rgb(202, 13, 199);
+    text-shadow: -3px -3px 0 #8a2be2, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
+   
+    font-size:100px;
+    font-family: 'Black Ops One', system-ui;
+}
+p{
+    color: rgb(255, 0, 0);
+    font-family: arial black;
+}
+h4{
+    color:white;
+    font-family: arial black;
+}
+h3{
+    color:white;
+    font-family: arial black;
+}
